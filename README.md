@@ -1,3 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-Find me also in the [Fediverse](https://fosstodon.org/@g0hl1n) and on [Codeberg](https://codeberg.org/g0hl1n).
+### This account is pretty inactive.
+
+If you're interested in my current work/repos please take a look at:
+
+- [Codeberg](https://codeberg.org/g0hl1n).
+- the [Fediverse](https://fosstodon.org/@g0hl1n)
